@@ -42,7 +42,7 @@ It helps students understand object-oriented programming and database interactio
 | Programming Language | Java (JDK 11 or higher) |
 | Database | MySQL |
 | Database Connector | MySQL Connector/J (JDBC Driver) |
-| IDE | VS Code / Eclipse / IntelliJ IDEA |
+| IDE | VS Code |
 | GUI Framework | Java Swing |
 | Build Tool | Manual Compilation (`javac`, `java`) |
 
@@ -55,3 +55,4 @@ It helps students understand object-oriented programming and database interactio
   ```bash
   java -version
   javac -version
+
